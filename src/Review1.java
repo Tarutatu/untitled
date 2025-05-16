@@ -7,3 +7,4 @@ public class Review1 {
         System.out.println("文字は',文字列は”で囲みましょう。");
     }
 }
+
