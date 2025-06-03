@@ -9,7 +9,6 @@ public class Review9 {
         String inputName = br.readLine();
         System.out.print("年齢を入力してください＞");
         int age = Integer.parseInt(br.readLine());
-
         System.out.println(age + "歳の" +inputName + "さん。\nこんにちは");
     }
 }
